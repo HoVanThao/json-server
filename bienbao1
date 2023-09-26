@@ -1,0 +1,21 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "title": "Tốc độ tối đa cho phép 50km/h",
+            "poster": "https://i.imgur.com/5rledlF.png",
+            "year": "1994",
+            "country": "USA",
+            "imdb_rating": "9.3",
+            "genres": [
+                "Crime",
+                "Drama"
+            ],
+            "images": [
+                "https://moviesapi.ir/images/tt0111161_screenshot1.jpg",
+                "https://moviesapi.ir/images/tt0111161_screenshot2.jpg",
+                "https://moviesapi.ir/images/tt0111161_screenshot3.jpg"
+            ]
+        }
+    ]
+}
