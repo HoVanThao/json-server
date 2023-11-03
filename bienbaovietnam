@@ -1,0 +1,164 @@
+[
+    {
+        "id": 1,
+        "maBienBao": "P.102",
+        "noiDung": "Biển báo cấm đi ngược chiều.",
+        "url": "https://i.imgur.com/w6lRRQo.png"
+    },
+    {
+        "id": 2,
+        "maBienBao": "P.103a",
+        "noiDung": "Biển báo cấm ô tô.",
+        "url": "https://i.imgur.com/FfqCzSS.png"
+    },
+    {
+        "id": 3,
+        "maBienBao": "P.104",
+        "noiDung": "Biển báo cấm mô tô.",
+        "url": "https://i.imgur.com/aLX7y2E.png"
+    },
+    {
+        "id": 4,
+        "maBienBao": "P.106a",
+        "noiDung": "Biển báo cấm xe tải.",
+        "url": "https://i.imgur.com/UBXTZsv.png"
+    },
+    {
+        "id": 5,
+        "maBienBao": "P.112",
+        "noiDung": "Biển báo cấm người đi bộ.",
+        "url": "https://i.imgur.com/b9BoUZE.png"
+    },
+    {
+        "id": 6,
+        "maBienBao": "P.117",
+        "noiDung": "Biển báo hạn chế chiều cao.",
+        "url": "https://i.imgur.com/pkNXyfO.png"
+    },
+    {
+        "id": 7,
+        "maBienBao": "P.123a",
+        "noiDung": "Biển báo cấm rẽ trái.",
+        "url": "https://i.imgur.com/T0f6SOI.png"
+    },
+    {
+        "id": 8,
+        "maBienBao": "P.123b",
+        "noiDung": "Biển báo cấm rẽ phải.",
+        "url": "https://i.imgur.com/4uGpZ5c.png"
+    },
+    {
+        "id": 9,
+        "maBienBao": "P.124a",
+        "noiDung": "Biển báo cấm quay đầu xe.",
+        "url": "https://i.imgur.com/AqAfHvV.png"
+    },
+    {
+        "id": 10,
+        "maBienBao": "P.127",
+        "noiDung": "Biển báo giới hạn tốc độ.",
+        "url": "https://i.imgur.com/R94rsMz.png"
+    },
+    {
+        "id": 11,
+        "maBienBao": "P.130",
+        "noiDung": "Biển báo cấm dừng và đỗ xe..",
+        "url": "https://i.imgur.com/FZkJWq5.png"
+    },
+    {
+        "id": 12,
+        "maBienBao": "P.131a",
+        "noiDung": "Biển báo cấm đỗ xe.",
+        "url": "https://i.imgur.com/um7ATk0.png"
+    },
+    {
+        "id": 13,
+        "maBienBao": "R.301d",
+        "noiDung": "Biển báo các phương tiện chỉ đươc rẽ phải.",
+        "url": "https://i.imgur.com/zyDVtEq.png"
+    },
+    {
+        "id": 14,
+        "maBienBao": "R.301e",
+        "noiDung": "Biển báo các phương tiện chỉ được rẽ trái.",
+        "url": "https://i.imgur.com/UxTz01d.png"
+    },
+    {
+        "id": 15,
+        "maBienBao": "R.302a",
+        "noiDung": "Biển báo hướng phải đi vòng chướng ngại vật qua phải.",
+        "url": "https://i.imgur.com/Bn2CUIf.png"
+    },
+    {
+        "id": 16,
+        "maBienBao": "R.303",
+        "noiDung": "Biển báo nơi giao nhau chạy theo vòng xuyến.",
+        "url": "https://i.imgur.com/4OVsSfl.png"
+    },
+    {
+        "id": 17,
+        "maBienBao": "R.407a",
+        "noiDung": "Biển báo đường một chiều.",
+        "url": "https://i.imgur.com/lBV2wgi.png"
+    },
+    {
+        "id": 18,
+        "maBienBao": "W.201a",
+        "noiDung": "Biển báo chỗ ngoặt nguy hiểm vòng bên trái.",
+        "url": "https://i.imgur.com/WYkrtnK.png"
+    },
+    {
+        "id": 19,
+        "maBienBao": "W.201b",
+        "noiDung": "Biển báo chỗ ngoặt nguy hiểm vòng bên phải.",
+        "url": "https://i.imgur.com/Ok6jIIf.png"
+    },
+    {
+        "id": 20,
+        "maBienBao": "W.203b",
+        "noiDung": "Biển báo đường bị hẹp về phía trái.",
+        "url": "https://i.imgur.com/if8Rr2c.png"
+    },
+    {
+        "id": 21,
+        "maBienBao": "W.203c",
+        "noiDung": "Biển báo đường bị hẹp về phía phải.",
+        "url": "https://i.imgur.com/ML7CC83.png"
+    },
+    {
+        "id": 22,
+        "maBienBao": "W.205a",
+        "noiDung": "Biển báo đường giao nhau.",
+        "url": "https://i.imgur.com/02n3Dm5.png"
+    },
+    {
+        "id": 23,
+        "maBienBao": "W.207",
+        "noiDung": "Biển báo giao nhau với đường không ưu tiên..",
+        "url": "https://i.imgur.com/NpWf8R3.png"
+    },
+    {
+        "id": 24,
+        "maBienBao": "W.208",
+        "noiDung": "Biển báo giao nhau với đường ưu tiên.",
+        "url": "https://i.imgur.com/tcScj51.png"
+    },
+    {
+        "id": 25,
+        "maBienBao": "W.219",
+        "noiDung": "Biển báo dốc xuống nguy hiểm.",
+        "url": "https://i.imgur.com/jrVEVLz.png"
+    },
+    {
+        "id": 26,
+        "maBienBao": "W.224",
+        "noiDung": "Biển báo đường người đi bộ cắt ngang.",
+        "url": "https://i.imgur.com/5pqM2kM.png"
+    },
+    {
+        "id": 27,
+        "maBienBao": "W.245a",
+        "noiDung": "Biển báo đi chậm.",
+        "url": "https://i.imgur.com/ldAO9Bo.png"
+    }
+]
