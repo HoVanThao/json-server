@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "taiKhoan": "hovanthao",
+        "matKhau": "123456",
+        "hovaten": "Hồ Văn Thảo",
+        "phone": "0369276372",
+        "email": "hovanthao0611cs@gmail.com",
+        "address": "Gia Lai",
+        "url": "https://i.imgur.com/1nORATT.png"
+    },
+    {
+        "id": 2,
+        "taiKhoan": "voviettruong",
+        "matKhau": "123456",
+        "hovaten": "Võ Viết Trường",
+        "phone": "0857937360",
+        "email": "voviettruong141003@gmail.com",
+        "address": "Quảng Nam",
+        "url": "https://i.imgur.com/jdSQfdm.png"
+    },
+    {
+        "id": 3,
+        "taiKhoan": "hoangnguyennhatminh",
+        "matKhau": "123456",
+        "hovaten": "Hoàng Nguyễn Nhật Minh",
+        "phone": "0325006036",
+        "email": "hoangnguyennhatminh2003ht@gmail.com",
+        "address": "Hà Tĩnh",
+        "url": "https://i.imgur.com/Z7I5dGq.png"
+    },
+    {
+        "id": 4,
+        "taiKhoan": "tranminhquan",
+        "matKhau": "123456",
+        "hovaten": "Trần Minh Quân",
+        "phone": "0948628477",
+        "email": "tmquan0948628477@gmail.com",
+        "address": "Quảng Bình",
+        "url": "https://i.imgur.com/ow5AhgA.png"
+    }
+]
