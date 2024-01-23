@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "maBienBao": "P.102",
+        "noiDung": "Biển báo cấm đi ngược chiều.",
+        "url": "https://i.imgur.com/UIbmYLz.jpg"
+    },
+    {
+        "id": 2,
+        "maBienBao": "P.103a",
+        "noiDung": "Biển báo cấm ô tô.",
+        "url": "https://i.imgur.com/pjp2Vtx.jpg"
+    },
+    {
+        "id": 3,
+        "maBienBao": "P.104",
+        "noiDung": "Biển báo cấm mô tô.",
+        "url": "https://i.imgur.com/gkSL3P4.jpg"
+    },
+    {
+        "id": 4,
+        "maBienBao": "P.106a",
+        "noiDung": "Biển báo cấm xe tải.",
+        "url": "https://i.imgur.com/93McPHE.jpg"
+    },
+    {
+        "id": 5,
+        "maBienBao": "P.112",
+        "noiDung": "Biển báo cấm người đi bộ.",
+        "url": "https://i.imgur.com/jUHGswI.jpg"
+    },
+    {
+        "id": 6,
+        "maBienBao": "P.117",
+        "noiDung": "Biển báo hạn chế chiều cao.",
+        "url": "https://i.imgur.com/iEfSgob.jpg"
+    }
+]
